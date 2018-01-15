@@ -5,6 +5,6 @@ public class HelloWorld {
 		System.out.println("hi java");
 		
 		
-	}
+	}//배운것을 활용해서 연습하자,마우스키를 최대한으로 줄이자
 
 }
